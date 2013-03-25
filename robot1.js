@@ -1,6 +1,4 @@
 
-//FightCode can only understand your robot
-//if its class is called Robot
 var Robot = function(robot) {
   this.i = 0;
 };
